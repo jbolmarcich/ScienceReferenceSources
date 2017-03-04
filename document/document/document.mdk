@@ -1,0 +1,75 @@
+Title         : Creating Data Management Plans
+Author        : Jennifer Bolmarcich
+Logo          : True
+
+[TITLE]
+
+# Data management plans (DMPs) explain:
+1. Who will be able to access data? 
+2. What data will be collected? 
+3. Where will data be stored? 
+4. When (or if) will data be shared? 
+5. How will data be protected? 
+6. Why have these choices been made? 
+
+# This guide explains:
+1. Who you can ask for help 
+2. Which funders require DMPs 
+3. Where to find templates and examples 
+4. When you need to create a DMP 
+5. How creating and following a DMP can make your work easier 
+6. Why data management is important for any research project 
+
+# When do you need help? 
+* I have a grant due soon 
+* I am still planning a research project
+* I don't have a particular project in mind yet
+
+I need to know what my funder requires 
+I need an example or template 
+I need to know what services, like data storage or security, are available 
+I want to know what University policies are. 
+I need someone to help me ASAP. 
+I don't know where to start. 
+I want training or an appointment. 
+I want to know more about data management. 
+
+
+A DMP records how your project data will be collected and stored, accessed during and after the project, shared with collaborators or the larger community, and preserved for the future. Plans are required by many funders, including most U.S. government granting agencies, and some private foundations. Data sharing is recommended, and often required, by many agencies, institutions, journals, and disciplinary standards. 
+Most importantly, creating a data management plan helps you: 
+
+* plan your research project 
+* identify the types and amounts of data you intend to collect 
+* make decisions about data access and storage 
+* document your research plans 
+* Collaborate with research partners and staff 
+* Identify sensitive data that needs IRB review 
+* Demonstrate the rigor of your methods and analysis 
+* Reproduce your findings (or allow others to do the same) 
+* Arrange secure and redundent data storage during your project (losing your laptop won't mean losing your work). 
+
+## Needed information: 
+* Data types 
+* Data amount 
+* Data storage locations 
+* Data access / collaboration 
+* Metadata
+* file formats
+* access conditions
+* repository
+* security needs
+
+## Plans are required by: 
+* U.S. government grant funding agencies 
+* Private foundations 
+
+## Data sharing may be mandated by: 
+* U.S. government agencies 
+* Institutional policies 
+* Journal policies
+
+
+DMPs should describe whether and how data generated in the course of the proposed research will be shared and preserved. If the plan is not to share and/or preserve certain data, then the plan must explain the basis of the decision (for example, cost/benefit considerations, other parameters of feasibility, scientific appropriateness, or limitations discussed in #4). At a minimum, DMPs must describe how data sharing and preservation will enable validation of results, or how results could be validated if data are not shared or preserved.
+DMPs should provide a plan for making all research data displayed in publications resulting from the proposed research open, machine-readable, and digitally accessible to the public at the time of publication. This includes data that are displayed in charts, figures, images, etc. In addition, the underlying digital research data used to generate the displayed data should be made as accessible as possible to the public in accordance with the principles stated above. This requirement could be met by including the data as supplementary information to the published article, or through other means. The published article should indicate how these data can be accessed.
+DMPs should consult and reference available information about data management resources to be used in the course of the proposed research. In particular, DMPs that explicitly or implicitly commit data management resources at a facility beyond what is conventionally made available to approved users should be accompanied by written approval from that facility. In determining the resources available for data management at Office of Science User Facilities, researchers should consult the published description of data management resources and practices at that facility and reference it in the DMP. Information about other Office of Science facilities can be found in the additional guidance from the sponsoring program.
+DMPs must protect confidentiality, personal privacy, Personally Identifiable Information, and U.S. national, homeland, and economic security; recognize proprietary interests, business confidential information, and intellectual property rights; avoid significant negative impact on innovation, and U.S. competitiveness; and otherwise be consistent with all applicable laws, regulations, and DOE orders and policies. There is no requirement to share proprietary data. 
